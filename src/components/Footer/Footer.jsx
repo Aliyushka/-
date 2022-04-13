@@ -4,6 +4,7 @@ const Footer = () => {
     return (
         <div>
            <p>ghbdtn</p>
+            <p>ghbdtn</p>
         </div>
     );
 };
