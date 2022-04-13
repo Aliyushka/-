@@ -1,11 +1,11 @@
 import React from 'react';
 import Header from './components/Header/Header';
-import Content from './components/Content/';
-import MenuNewProductItem from './components/MenuNewProductItem/';
-import MenuNewProducts from './components/MenuNewProducts/';
-import MenuBlockPizza from './components/MenuBlockPizza/';
-import Pizzas from './components/Pizzas/';
-import Footer from './components/Footer/';
+import Content from './components/Content/Content';
+import MenuNewProductItem from './components/MenuNewProductItem/MenuNewProductItem';
+import MenuNewProducts from './components/MenuNewProducts/MenuNewProducts';
+import MenuBlockPizza from './components/MenuBlockPizza/MenuBlockPizza';
+import Pizzas from './components/Pizzas/Pizzas';
+import Footer from './components/Footer/Footer';
 
 
 
