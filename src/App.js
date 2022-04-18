@@ -8,24 +8,21 @@ import Pizzas from './components/Pizzas/Pizzas';
 import Footer from './components/Footer/Footer';
 
 
-
-
 const App = () => {
     return (
         <>
-        <div className="container">
-            <Header/>
-            {/*<Content/>
-            <MenuNewProductItem/>
-            <MenuNewProducts/>
-            <MenuBlockPizza/>*/}
-            {/*<Pizzas/>*/}
-        </div>
-        <Footer/>
+            <div className="container">
+                <Header/>
+                <Content/>
+                {/*<MenuNewProductItem/>*/}
+                <MenuNewProducts/>
+                {/*<MenuBlockPizza/>*/}
+                {/*<Pizzas/>*/}
+            </div>
+            <Footer/>
         </>
     );
 };
-
 
 
 export default App;
